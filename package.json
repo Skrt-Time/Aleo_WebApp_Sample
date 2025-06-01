@@ -12,8 +12,14 @@
     "install-leo": "./install.sh"
   },
   "dependencies": {
+    "@demox-labs/aleo-sdk": "^0.4.1",
+    "@demox-labs/aleo-wallet-adapter-base": "^0.0.22",
+    "@demox-labs/aleo-wallet-adapter-react": "^0.0.21",
+    "@demox-labs/aleo-wallet-adapter-reactui": "^0.0.35",
     "@provablehq/sdk": "^0.8.8",
+    "aleo-adapters": "^1.2.1",
     "comlink": "^4.4.2",
+    "next": "^15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

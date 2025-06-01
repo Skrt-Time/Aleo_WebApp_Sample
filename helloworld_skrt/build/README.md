@@ -1,4 +1,4 @@
-# helloworld_skrt.aleo
+# afficher_soldes.aleo
 
 ## Build Guide
 
